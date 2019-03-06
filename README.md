@@ -7,6 +7,6 @@ The code after this step should look [something like this](https://github.com/SC
 Wiring image made with Fritzing. 
 
 Next is to make a pretty sequence by [editing this code](https://github.com/SCCMakers/moodLight/blob/master/rainbowblink.ino) and getting the hex values [from a site like this](https://www.color-hex.com/color-palettes/). 
-<img src=https://github.com/SCCMakers/moodLight/blob/master/rgb_image.JPG height=400>   
+<img src=https://github.com/SCCMakers/moodLight/blob/master/rgb_image_rot.JPG height=400>   
 Project in action. 
 
