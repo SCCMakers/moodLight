@@ -15,7 +15,7 @@ Next you can switch to an RGB LED and print [this LED cover](https://www.thingiv
 Now you are ready for the [smooth rainbow](https://github.com/SCCMakers/moodLight/blob/master/smooth_rainbow.ino).  Can you edit the code to make it a smooth backwards rainbow?  
 
 <img src=https://github.com/SCCMakers/moodLight/blob/master/featherlamp.JPG height=400>   
-Mood light complete. 
+Mood light complete.    
    
    
 
