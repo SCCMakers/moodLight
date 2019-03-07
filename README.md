@@ -16,5 +16,6 @@ Now you are ready for the [smooth rainbow](https://github.com/SCCMakers/moodLigh
 
 <img src=https://github.com/SCCMakers/moodLight/blob/master/featherlamp.JPG height=400>   
 Mood light complete. 
-
+   
+   
 [The slideshow for this activity can be found here](https://docs.google.com/presentation/d/1d7Lc2nFzMsIrF1mCdFx3Lg3hAz3w9mfUrDsmHGg918g/edit?usp=sharing).  It includes all but the smooth rainbow.  In 40 minutes, most high school groups can get to RGB blink and advanced groups were able to get to Rainbow Blink. 
