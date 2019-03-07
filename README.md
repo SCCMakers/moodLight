@@ -10,5 +10,5 @@ Next is to make a pretty sequence by [editing this code](https://github.com/SCCM
 <img src=https://github.com/SCCMakers/moodLight/blob/master/rgb_image_rot.JPG width=400>   
 Project in action. 
 
-Next you can switch to an RGB LED and print [this LED cover](http://comingsoon.com) and [this pretty cover](https://www.thingiverse.com/thing:1343925) before proceeding. 
+Next you can switch to an RGB LED and print [this LED cover](https://www.thingiverse.com/thing:3476106) and [this pretty cover](https://www.thingiverse.com/thing:1343925) before proceeding. 
 
